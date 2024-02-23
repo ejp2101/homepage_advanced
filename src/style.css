@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'playfair';
+    src: url('./playfair.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'roboto';
+src: url('./roboto.ttf') format('truetype');
+
+}
+
+body{
+    background: url(me.jpg) no-repeat;
+    color: white;
+    font-family: 'playfair';
+}
